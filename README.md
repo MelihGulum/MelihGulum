@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning algorithms in tensorflow and neural language processing**
 
-- 👨‍💻 All of my projects are available at [my website](https://semihstp.github.io/)
+- 👨‍💻 All of my projects are available at [my website]
 
 - 📝 I regularly write articles on [my personal Medium account](https://medium.com/@mgulum98)
 

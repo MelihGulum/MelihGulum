@@ -22,6 +22,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> </a>
+
+
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://librosa.org/doc/latest/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/81585804/167391577-acafed45-3c9f-49af-b098-ca360b88960f.svg" alt="librosa" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -36,5 +39,5 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="html" width="40" height="40"/> </a>
 
 </p>
-
-
+<p align="left"> 
+</p>

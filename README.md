@@ -39,7 +39,7 @@
 
 </p>
 <p align='center'>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" height="500" />
 </p>
 <p align='center'>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum">

@@ -39,8 +39,8 @@
 
 </p>
 <p align='center'>
-  <img align="left" img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" img width="100"/>
 </p>
 <p align='center'>
-  <img align="right" img width="400" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" img width="300">
 </p>

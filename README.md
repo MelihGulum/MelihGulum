@@ -38,6 +38,9 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 
 </p>
-<p align='center'>
+<p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" />
+</p>
+<p align='rigtt'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum">
 </p>

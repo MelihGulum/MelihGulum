@@ -13,14 +13,14 @@
 
 - 📫 You can reach me from **mgulum98@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2> :coffee: Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/melih-gulum-62b0b9200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melih-gulum" height="30" width="40" /></a>
 <a href="https://www.instagram.com/melih.gulum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihgulum" height="30" width="40" /></a>
 <a href="https://medium.com/@mgulum98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melih-gulum" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages, Tools and Frameworks:</h3>
+<h2 align="left"> :toolbox: Languages, Tools and Frameworks:</h2>
 <p align="center"> 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
@@ -37,6 +37,7 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
+
 <!---
   <p align='center'>
     <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" />
@@ -46,10 +47,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum">
   </p>
 --->
-
+<h2> :chart_with_upwards_trend: Github Stats:</h2>
 <p align="center"> 
-  <img height="150px" width="500" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" >
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
+  <img src="https://komarev.com/ghpvc/?username=MelihGulum"/>
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" >
+  <img  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" >
 </p>
 
 

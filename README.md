@@ -36,18 +36,20 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
+</---
+  <p align='center'>
+    <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" />
+  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact" /> 
+  <p align='center'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum">
+  </p>
+--->
 
-</p>
-<p align='center'>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact" /> 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum">
-</p>
 <p align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mariagrandury&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" >
-  <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariagrandury&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
+  <src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" >
+  <src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
 </p>
 
 

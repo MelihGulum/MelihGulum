@@ -49,7 +49,7 @@
 
 <p align="center"> 
   <src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" >
-  <src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
+  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
 </p>
 
 

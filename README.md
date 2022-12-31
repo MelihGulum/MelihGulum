@@ -48,7 +48,7 @@
 --->
 
 <p align="center"> 
-  <img height="150px" width="150px" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" >
+  <img height="150px" width="500" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" >
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
 </p>
 

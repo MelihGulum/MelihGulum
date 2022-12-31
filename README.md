@@ -14,14 +14,14 @@
 - 📫 You can reach me from **mgulum98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/melih-gulum-62b0b9200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melih-gulum" height="30" width="40" /></a>
 <a href="https://www.instagram.com/melih.gulum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihgulum" height="30" width="40" /></a>
 <a href="https://medium.com/@mgulum98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melih-gulum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Tools and Frameworks:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -38,16 +38,16 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 
 </p>
-<!--<p align='center'>
+<p align='center'>
   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" />
-</p>-->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact" /> -->
-<!---<p align='center'>
+</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact" /> 
+<p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum">
 </p>
 <p align="center"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mariagrandury&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" >
   <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariagrandury&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
 </p>
--->
+
 

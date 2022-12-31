@@ -38,18 +38,9 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<!---
-  <p align='center'>
-    <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum" />
-  </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact" /> 
-  <p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="MelihGulum">
-  </p>
---->
 <h2> :chart_with_upwards_trend: Github Stats:</h2>
+<img src="https://komarev.com/ghpvc/?username=MelihGulum"/>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MelihGulum"/>
   <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" >
   <img  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" >
 </p>

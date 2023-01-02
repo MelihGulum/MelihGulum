@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🤙 I'm Melih GULUM</h1>
-<h3 align="center">A passionate machine learning and deep learning developer from Turkey <p align=right><img src="https://komarev.com/ghpvc/?username=MelihGulum"/></p></h3>
+<h3 align="center">A passionate machine learning and deep learning developer from Turkey</h3>
 
 - 🔭 I’m currently studying **Computer Science**
 
@@ -40,8 +40,9 @@
 
 <h2> :chart_with_upwards_trend: Github Stats:</h2>
 <p align="center"> 
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=[MelihGulum]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" >
-  <img  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MelihGulum]&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" >
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=MelihGulum&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" >
+  <img  width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihGulum&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" >
 </p>
+<p align=left><img src="https://komarev.com/ghpvc/?username=MelihGulum"/></p>
 
 

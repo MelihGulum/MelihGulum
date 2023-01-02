@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🤙 I'm Melih GULUM</h1>
-<h3 align="center">A passionate machine learning and deep learning developer from Turkey <p align=left><img src="https://komarev.com/ghpvc/?username=MelihGulum"/></p></h3>
+<h3 align="center">A passionate machine learning and deep learning developer from Turkey <p align=right><img src="https://komarev.com/ghpvc/?username=MelihGulum"/></p></h3>
 
 - 🔭 I’m currently studying **Computer Science**
 

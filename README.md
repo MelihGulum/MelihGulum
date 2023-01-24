@@ -15,8 +15,8 @@
 
 <h2> :coffee: Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/melih-gulum-62b0b9200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melih-gulum" height="30" width="40" /></a>
-<a href="https://www.instagram.com/melih.gulum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihgulum" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/melih-gulum-62b0b9200/" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="melih-gulum" height="30" width="40" /></a>
+<a href="https://www.instagram.com/melih.gulum/" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" alt="melihgulum" height="30" width="40" /></a>
 <a href="https://medium.com/@mgulum98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melih-gulum" height="30" width="40" /></a>
 </p>
 
